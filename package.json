@@ -1,0 +1,22 @@
+{
+  "name": "npm-package-test",
+  "version": "1.0.0",
+  "description": "Testing how 'npm' and 'packages' function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Neumand/npm-package-assignment.git"
+  },
+  "author": "David Neuman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neumand/npm-package-assignment/issues"
+  },
+  "homepage": "https://github.com/Neumand/npm-package-assignment#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
